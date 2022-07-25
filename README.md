@@ -6,7 +6,7 @@ it allows to get up to 8kg force with full length stick extension with good amou
 <img src="preview.jpg" width="1000">
 
 ### Manufacturing and assembly instructions
-There is Fusion360 preview of the full assembly which you can find in the STEP folder as well.
+Here is **Fusion360** preview of the full assembly which you can find in the STEP folder as well.
 
 [<img src="v1.0/images/cad_preview.jpg" height="500">](https://a360.co/3yacUBG)
 
