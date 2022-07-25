@@ -13,7 +13,7 @@ Here is **Fusion360** preview of the full assembly which you can find in the STE
 All individual files needed for 3d printing and metal cutting and bending are already exported and are in dedicated
 folders.
 
-Please check separate pages with the  **[Components List](components.md)** and  **[Assembly instructions](assembly.md)** for more details.
+Please check separate pages with the  **[Components List](v1.0/components.md)** and  **[Assembly instructions](v1.0/assembly.md)** for more details.
 
 ### Electronics
 This version of mechanics is not dependent on specific controller, and it can be any of your choice. As an option you can select one **[based on ODrive controller board](https://github.com/o-devices/bldc-ffb-joystick)**.
