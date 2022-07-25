@@ -5,7 +5,10 @@ it allows to get up to 8kg force with full length stick extension with good amou
 
 <img src="preview.jpg" width="1000">
 
-### [V1.0 version manufacturing and assembly instructions.](/v1.0/v1.0.md)
+### Manufacturing and assembly instructions
 
+* #### [V1.0](/v1.0/v1.0.md) 
 
+### Electronics
 
+This version of mechanics is not dependent on specific controller, and it can be any of your choice. As an option you can select one **[based on ODrive controller board](https://github.com/o-devices/bldc-ffb-joystick)**.
