@@ -19,6 +19,6 @@ Please check separate pages with the  **[Components List](v1.0/components.md)** 
 This version of mechanics is not dependent on specific controller, and it can be any of your choice. As an option you can select one **[based on ODrive controller board](https://github.com/o-devices/bldc-ffb-joystick)**.
 
 ### Support Further Development
-If you consider this project interesting, you can support me
+If you consider this project interesting, you can support me in my way to perfect DIY FFB for everybody :)
 
 [![Donate](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=3HNFLQ2CU5XG4)
