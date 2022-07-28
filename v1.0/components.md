@@ -42,7 +42,7 @@ Some additional components need to be obtained in order to complete a build
 |---------------------|----------|             
 | 6806 Bearing        | 8        | 
 | SI6TK Rod End       | 16       |
-| SF16 shaft holder   | 2        |
+| SРF16 shaft holder  | 2        |
 | HTD5M-15 Belt 450mm | 2        |
 
 ### Hardware
@@ -57,7 +57,6 @@ And of-course you will need assortment of nuts, bolts and washers
 | M5x8            | ISO 7380, DIN 912     | 36                    |
 | M5x16           | ISO 7380, DIN 912     | 4                     |
 | M5x16           | DIN 7991              | 12                    |
-| M6x10           | ISO 7380, DIN 912     | 6                     |
 | M6x10           | ISO 7380, DIN 912     | 6                     |
 | M6x25           | DIN 933               | 3                     |
 | M6x35           | DIN 933               | 2                     |
